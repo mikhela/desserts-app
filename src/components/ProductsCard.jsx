@@ -3,7 +3,6 @@ import '../styles/CardStyle.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCartPlus, faMinus, faPlus } from '@fortawesome/free-solid-svg-icons';
 import { useCart } from 'react-use-cart';
-
 function ProductsCard({ data }) {
     const { addItem, items, updateItemQuantity, removeItem } = useCart();
     const [isInCart, setIsInCart] = useState(false);
