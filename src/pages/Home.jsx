@@ -8,7 +8,7 @@ function Home() {
   return (
     <div className="container home">
       <CartProvider>
-        <div className="row">
+        <div className="row home--container">
           <div className="col-lg-8 col-md-12 mb-4">
             <Products />
           </div>
