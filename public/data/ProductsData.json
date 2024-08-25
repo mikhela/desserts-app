@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Waffle",
+      "description": "Waffle with Berries",
+      "price": 6.50,
+      "image": "/assets/image-waffle-mobile.jpg",
+      "category": "Dessert"
+    },
+    {
+        "id": 2,
+        "title": "Creme Brulee",
+        "description": "Vanilla Bean Creme Brulee",
+        "price": 7.00,
+        "image": "/assets/image-creme-brulee-mobile.jpg",
+        "category": "Dessert"
+    },
+    {
+        "id": 3,
+        "title": "Macaron",
+        "description": "Macaron Mix of Five",
+        "price": 8.00,
+        "image": "/assets/image-macaron-mobile.jpg",
+        "category": "Pastry"
+    },
+    {
+        "id": 4,
+        "title": "Tiramisu",
+        "description": "Classic Tiramisu",
+        "price": 5.50,
+        "image": "/assets/image-tiramisu-mobile.jpg",
+        "category": "Dessert"
+    },
+    {
+        "id": 5,
+        "title": "Baklava",
+        "description": "Pistachio Baklava",
+        "price": 4.00,
+        "image": "/assets/image-baklava-mobile.jpg",
+        "category": "Pastry"
+    },
+    {
+        "id": 6,
+        "title": "Pie",
+        "description": "Lemon Meringue Pie",
+        "price": 5.50,
+        "image": "/assets/image-meringue-mobile.jpg",
+        "category": "Dessert"
+    },
+    {
+        "id": 7,
+        "title": "Cake",
+        "description": "Red Velvet Cake",
+        "price": 4.50,
+        "image": "/assets/image-cake-mobile.jpg",
+        "category": "Dessert"
+    },
+    {
+        "id": 8,
+        "title": "Brownie",
+        "description": "Salted Caramel Brownie",
+        "price": 5.50,
+        "image": "/assets/image-brownie-mobile.jpg",
+        "category": "Dessert"
+    },
+    {
+        "id": 9,
+        "title": "Panna Cotta",
+        "description": "Vanilla Panna Cotta",
+        "price": 6.50,
+        "image": "/assets/image-panna-cotta-mobile.jpg",
+        "category": "Dessert"
+    }
+]

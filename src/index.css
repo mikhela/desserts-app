@@ -1,0 +1,17 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'FontFs';
+}
+
+@font-face {
+    font-family: 'FontFs';
+    src: url(fonts/RedHatText-VariableFont_wght.ttf);
+}
+
+body
+{
+    background-color: rgba(252,248,245,255);
+}
