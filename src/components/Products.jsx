@@ -3,7 +3,7 @@ import axios from 'axios';
 import ProductsCard from './ProductsCard.jsx'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Row, Col } from 'react-bootstrap';
-import '../app.css'
+import "../styles/ProductsStyle.css"
 function Products() {
     const [products, setProducts] = useState([]);
     const [loading, setLoading] = useState(true);
